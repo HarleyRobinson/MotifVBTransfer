@@ -1,0 +1,73 @@
+[TgcArAaCt (9), AtGCwCcTG (9)]
+# K =  2  mindist = 0.539
+# min,max dist:  0.5388  0.5388
+[TgcArAaCt (9), GCAAGGATTC (10)]
+# K =  2  mindist = 0.520
+# min,max dist:  0.5205  0.5205
+[TgcArAaCt (9), GAkAACTGAA (10)]
+# K =  2  mindist = 0.456
+# min,max dist:  0.4564  0.4564
+[TgcArAaCt (9), TCCG (4)]
+# K =  2  mindist = 0.441
+# min,max dist:  0.4411  0.4411
+[TgcArAaCt (9), GACA (4)]
+# K =  2  mindist = 0.420
+# min,max dist:  0.4202  0.4202
+[AGTGC (5), AtGCwCcTG (9)]
+# K =  2  mindist = 0.357
+# min,max dist:  0.3571  0.3571
+[AGTGC (5), GCAAGGATTC (10)]
+# K =  2  mindist = 0.396
+# min,max dist:  0.3961  0.3961
+[AGTGC (5), GAkAACTGAA (10)]
+# K =  2  mindist = 0.297
+# min,max dist:  0.2970  0.2970
+[AGTGC (5), TCCG (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3300  0.3300
+[AGTGC (5), GACA (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3301  0.3301
+[CTGG (4), AtGCwCcTG (9)]
+# K =  2  mindist = 0.085
+[CTGG (4), GCAAGGATTC (10)]
+# K =  2  mindist = 0.248
+# min,max dist:  0.2476  0.2476
+[CTGG (4), GAkAACTGAA (10)]
+# K =  2  mindist = 0.248
+# min,max dist:  0.2476  0.2476
+[CTGG (4), TCCG (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3300  0.3300
+[CTGG (4), GACA (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3301  0.3301
+[AGGTAG (6), AtGCwCcTG (9)]
+# K =  2  mindist = 0.429
+# min,max dist:  0.4288  0.4288
+[AGGTAG (6), GCAAGGATTC (10)]
+# K =  2  mindist = 0.396
+# min,max dist:  0.3960  0.3960
+[AGGTAG (6), GAkAACTGAA (10)]
+# K =  2  mindist = 0.412
+# min,max dist:  0.4125  0.4125
+[AGGTAG (6), TCCG (4)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[AGGTAG (6), GACA (4)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[ACmC (4), AtGCwCcTG (9)]
+# K =  2  mindist = 0.424
+# min,max dist:  0.4242  0.4242
+[ACmC (4), GCAAGGATTC (10)]
+# K =  2  mindist = 0.371
+# min,max dist:  0.3713  0.3713
+[ACmC (4), GAkAACTGAA (10)]
+# K =  2  mindist = 0.462
+# min,max dist:  0.4619  0.4619
+[ACmC (4), TCCG (4)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[ACmC (4), GACA (4)]
+# K =  2  mindist = 0.165

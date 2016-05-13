@@ -1,0 +1,3 @@
+NovelID	Novel_motif	TFBS	TFBS_motif	Similarity
+Motif3 | alength= 4 w= 4 nsites= 2 E= 1.1e+002	CTGG	Motif1 | alength= 4 w= 9 nsites= 6 E= 6.8e-003	AtGCwCcTG	0.915025695841
+Motif5 | alength= 4 w= 4 nsites= 2 E= 1.3e+002	ACmC	Motif5 | alength= 4 w= 4 nsites= 2 E= 3.0e+002	GACA	0.834975849011

@@ -1,0 +1,42 @@
+Log-odds matrix for Motif   0 GCws.Trg (8)
+#        0         1         2         3         4         5         6         7   
+#A    -6.658    -6.658     1.080    -2.903    -0.670    -6.658     0.695    -2.903 
+#C    -6.658     1.989    -2.903     1.383     0.168    -6.658    -2.903    -2.903 
+#T    -6.658    -6.658     0.695    -2.903    -0.670     1.989    -2.903    -0.670 
+#G     1.989    -6.658    -2.903     0.168     0.695    -6.658     1.080     1.634 
+Sequence Logo
+#  --------
+#           -- 2.30 bits
+#          
+#  GC   T  
+#  GC   T  
+#  GC   T G
+#  GC C T G
+#  GC C T G
+#  GCAC TGG -- 0.29 bits
+#  --------
+#  GCws.Trg
+Source:  Motif1 | alength= 4 w= 8 nsites= 7 E= 1.1e+000 
+Motif   0 GCws.Trg (8)              (Bits:  8.93  MAP:  0.00   D: 0.000  -1) E:  0.000
+GCACATAC 0 5.55315384304
+GCACATAG 0 10.0905879737
+GCACATAG 0 10.0905879737
+GCACCTAG 0 10.9284517742
+GCACCTAG 0 10.9284517742
+GCACCTAG 0 10.9284517742
+GCACCTAG 0 10.9284517742
+GCACCTAG 0 10.9284517742
+GCACCTCG 0 7.33019245086
+GCACGTGG 0 11.8399955465
+GCACGTGG 0 11.8399955465
+GCGCGTGG 0 7.85679078907
+GCTCGTGG 0 11.4550501124
+GCTCGTGG 0 11.4550501124
+GCTGGTGG 0 10.2399394481
+GCTGGTGG 0 10.2399394481
+GCTGGTGG 0 10.2399394481
+GCTGTTGT 0 6.5718403633
+GCTGTTGT 0 6.5718403633
+GCTGTTGT 0 6.5718403633
+********
+MAP Score: 0.000000
