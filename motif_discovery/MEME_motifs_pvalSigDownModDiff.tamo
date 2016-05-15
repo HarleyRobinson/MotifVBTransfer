@@ -1,0 +1,210 @@
+Log-odds matrix for Motif   0 TgcArAaCt (9)
+#        0         1         2         3         4         5         6         7         8   
+#A    -6.658     0.000    -3.060     1.989     0.911     1.989     1.465    -6.658    -3.060 
+#C    -6.658    -3.060     1.465    -6.658    -3.060    -6.658    -3.060     1.989     0.000 
+#T     1.989    -3.060     0.000    -6.658    -3.060    -6.658     0.000    -6.658     1.465 
+#G    -6.658     1.465    -3.060    -6.658     0.911    -6.658    -3.060    -6.658    -3.060 
+Sequence Logo
+#  ---------
+#            -- 2.30 bits
+#           
+#  T  A A C 
+#  T  A A C 
+#  T  A A C 
+#  TGCA AACT
+#  TGCAAAACT
+#  TGCAGAACT -- 0.29 bits
+#  ---------
+#  TgcArAaCt
+Source:  Motif1 | alength= 4 w= 9 nsites= 4 E= 6.2e+000 
+Motif   0 TgcArAaCt (9)             (Bits: 11.68  MAP:  0.00   D: 0.000  -1) E:  0.000
+TACAAAACC 0 11.7973085147
+TACAAAACC 0 11.7973085147
+TACAAAACC 0 11.7973085147
+TACAAAACC 0 11.7973085147
+TACAAAACC 0 11.7973085147
+TGCAAAACG 0 10.2021166265
+TGCAAAACT 0 14.7268290572
+TGCAAAACT 0 14.7268290572
+TGCAAAACT 0 14.7268290572
+TGCACAACT 0 10.7560767003
+TGCAGAACT 0 14.7268290572
+TGCAGAACT 0 14.7268290572
+TGCAGAACT 0 14.7268290572
+TGCAGAACT 0 14.7268290572
+TGCAGACCT 0 10.2021166265
+TGTAGATCT 0 11.7973085147
+TGTAGATCT 0 11.7973085147
+TGTAGATCT 0 11.7973085147
+TGTAGATCT 0 11.7973085147
+TGTAGATCT 0 11.7973085147
+*********
+MAP Score: 0.000000
+Log-odds matrix for Motif   1 AGTGC (5)
+#        0         1         2         3         4   
+#A     1.989    -6.658    -6.658    -6.658    -6.658 
+#C    -6.658    -6.658    -6.658    -6.658     1.989 
+#T    -6.658    -6.658     1.989    -6.658    -6.658 
+#G    -6.658     1.989    -6.658     1.989    -6.658 
+Sequence Logo
+#  -----
+#        -- 2.30 bits
+#       
+#  AGTGC
+#  AGTGC
+#  AGTGC
+#  AGTGC
+#  AGTGC
+#  AGTGC -- 0.29 bits
+#  -----
+#  AGTGC
+Source:  Motif2 | alength= 4 w= 5 nsites= 3 E= 1.3e+001 
+Motif   1 AGTGC (5)                 (Bits:  9.63  MAP:  0.00   D: 0.000  -1) E:  0.000
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+AGTGC 1 9.94623471852
+*****
+MAP Score: 0.000000
+Log-odds matrix for Motif   2 CTGG (4)
+#        0         1         2         3   
+#A    -6.658    -6.658    -6.658    -6.658 
+#C     1.989    -6.658    -6.658    -6.658 
+#T    -6.658     1.989    -6.658    -6.658 
+#G    -6.658    -6.658     1.989     1.989 
+Sequence Logo
+#  ----
+#       -- 2.30 bits
+#      
+#  CTGG
+#  CTGG
+#  CTGG
+#  CTGG
+#  CTGG
+#  CTGG -- 0.29 bits
+#  ----
+#  CTGG
+Source:  Motif3 | alength= 4 w= 4 nsites= 2 E= 1.1e+002 
+Motif   2 CTGG (4)                  (Bits:  7.70  MAP:  0.00   D: 0.000  -1) E:  0.000
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+CTGG 2 7.95698777481
+****
+MAP Score: 0.000000
+Log-odds matrix for Motif   3 AGGTAG (6)
+#        0         1         2         3         4         5   
+#A     1.989    -6.658    -6.658    -6.658     1.989    -6.658 
+#C    -6.658    -6.658    -6.658    -6.658    -6.658    -6.658 
+#T    -6.658    -6.658    -6.658     1.989    -6.658    -6.658 
+#G    -6.658     1.989     1.989    -6.658    -6.658     1.989 
+Sequence Logo
+#  ------
+#         -- 2.30 bits
+#        
+#  AGGTAG
+#  AGGTAG
+#  AGGTAG
+#  AGGTAG
+#  AGGTAG
+#  AGGTAG -- 0.29 bits
+#  ------
+#  AGGTAG
+Source:  Motif4 | alength= 4 w= 6 nsites= 2 E= 1.3e+002 
+Motif   3 AGGTAG (6)                (Bits: 11.55  MAP:  0.00   D: 0.000  -1) E:  0.000
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+AGGTAG 3 11.9354816622
+******
+MAP Score: 0.000000
+Log-odds matrix for Motif   4 ACmC (4)
+#        0         1         2         3   
+#A     1.989    -6.658     0.993    -6.658 
+#C    -6.658     1.989     0.993     1.989 
+#T    -6.658    -6.658    -6.658    -6.658 
+#G    -6.658    -6.658    -6.658    -6.658 
+Sequence Logo
+#  ----
+#       -- 2.30 bits
+#      
+#  AC C
+#  AC C
+#  AC C
+#  AC C
+#  ACAC
+#  ACCC -- 0.29 bits
+#  ----
+#  ACmC
+Source:  Motif5 | alength= 4 w= 4 nsites= 2 E= 1.3e+002 
+Motif   4 ACmC (4)                  (Bits:  6.73  MAP:  0.00   D: 0.000  -1) E:  0.000
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACAC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+ACCC 4 6.96058103954
+****
+MAP Score: 0.000000

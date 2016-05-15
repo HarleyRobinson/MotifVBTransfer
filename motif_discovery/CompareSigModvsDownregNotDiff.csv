@@ -1,0 +1,74 @@
+[AGTGC (5), CaCgAC (6)]
+# K =  2  mindist = 0.246
+# min,max dist:  0.2462  0.2462
+[AGTGC (5), CC.G (4)]
+# K =  2  mindist = 0.583
+# min,max dist:  0.5826  0.5826
+[AGTGC (5), GgAAG (5)]
+# K =  2  mindist = 0.556
+# min,max dist:  0.5557  0.5557
+[AGTGC (5), CAm.G (5)]
+# K =  2  mindist = 0.307
+# min,max dist:  0.3070  0.3070
+[AGTGC (5), AGAC (4)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[AACatTGT (8), CaCgAC (6)]
+# K =  2  mindist = 0.392
+# min,max dist:  0.3923  0.3923
+[AACatTGT (8), CC.G (4)]
+# K =  2  mindist = 0.524
+# min,max dist:  0.5238  0.5238
+[AACatTGT (8), GgAAG (5)]
+# K =  2  mindist = 0.478
+# min,max dist:  0.4776  0.4776
+[AACatTGT (8), CAm.G (5)]
+# K =  2  mindist = 0.245
+# min,max dist:  0.2445  0.2445
+[AACatTGT (8), AGAC (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3300  0.3300
+[CTGG (4), CaCgAC (6)]
+# K =  2  mindist = 0.397
+# min,max dist:  0.3974  0.3974
+[CTGG (4), CC.G (4)]
+# K =  2  mindist = 0.143
+[CTGG (4), GgAAG (5)]
+# K =  2  mindist = 0.449
+# min,max dist:  0.4486  0.4486
+[CTGG (4), CAm.G (5)]
+# K =  2  mindist = 0.267
+# min,max dist:  0.2672  0.2672
+[CTGG (4), AGAC (4)]
+# K =  2  mindist = 0.660
+# min,max dist:  0.6600  0.6600
+[kGTA (4), CaCgAC (6)]
+# K =  2  mindist = 0.261
+# min,max dist:  0.2610  0.2610
+[kGTA (4), CC.G (4)]
+# K =  2  mindist = 0.427
+# min,max dist:  0.4268  0.4268
+[kGTA (4), GgAAG (5)]
+# K =  2  mindist = 0.268
+# min,max dist:  0.2681  0.2681
+[kGTA (4), CAm.G (5)]
+# K =  2  mindist = 0.447
+# min,max dist:  0.4467  0.4467
+[kGTA (4), AGAC (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3300  0.3300
+[wCAk (4), CaCgAC (6)]
+# K =  2  mindist = 0.353
+# min,max dist:  0.3532  0.3532
+[wCAk (4), CC.G (4)]
+# K =  2  mindist = 0.418
+# min,max dist:  0.4176  0.4176
+[wCAk (4), GgAAG (5)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[wCAk (4), CAm.G (5)]
+# K =  2  mindist = 0.210
+# min,max dist:  0.2102  0.2102
+[wCAk (4), AGAC (4)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950

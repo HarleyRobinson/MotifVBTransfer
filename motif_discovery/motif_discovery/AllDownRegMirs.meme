@@ -1,0 +1,239 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 4.10.2 (Release date: Thu Sep 03 15:00:54 2015 -0700)
+
+For further information on how to interpret these results or to get
+a copy of the MEME software please access http://meme-suite.org .
+
+This file may be used as input to the MAST algorithm for searching
+sequence databases for matches to groups of motifs.  MAST is available
+for interactive use and downloading at http://meme-suite.org .
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to discover
+motifs in biopolymers", Proceedings of the Second International
+Conference on Intelligent Systems for Molecular Biology, pp. 28-36,
+AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+DATAFILE= AllDownRegMirs.fa
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+hsa-miR-503-5p           1.0000     23  hsa-miR-148a-3p          1.0000     22  
+hsa-miR-200a-3p          1.0000     22  hsa-miR-30a-5p           1.0000     22  
+hsa-miR-98-5p            1.0000     22  hsa-miR-125a-5p          1.0000     24  
+hsa-miR-32-5p            1.0000     22  hsa-miR-340-5p           1.0000     22  
+hsa-miR-363-3p           1.0000     22  hsa-miR-146a-5p          1.0000     22  
+hsa-miR-125b-2-3p        1.0000     22  hsa-miR-450b-5p          1.0000     22  
+hsa-miR-542-3p           1.0000     22  hsa-miR-148a-5p          1.0000     22  
+hsa-miR-17-5p            1.0000     23  hsa-miR-502-3p           1.0000     22  
+hsa-miR-374a-3p          1.0000     22  hsa-miR-500a-3p          1.0000     22  
+hsa-miR-99b-3p           1.0000     22  hsa-miR-532-5p           1.0000     22  
+hsa-miR-10b-5p           1.0000     23  hsa-miR-19a-3p           1.0000     23  
+hsa-miR-20b-5p           1.0000     23  hsa-miR-16-2-3p          1.0000     22  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme AllDownRegMirs.fa -dna -maxsites 20 -mod anr -nostatus -text -minw 4 -maxw 10 
+
+model:  mod=           anr    nmotifs=         1    evt=           inf
+object function=  E-value of product of p-values
+width:  minw=            4    maxw=           10    minic=        0.00
+width:  wg=             11    ws=              1    endgaps=       yes
+nsites: minsites=        2    maxsites=       20    wnsites=       0.8
+theta:  prob=            1    spmap=         uni    spfuzz=        0.5
+global: substring=     yes    branching=      no    wbranch=        no
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+data:   n=             535    N=              24
+strands: +
+sample: seed=            0    seqfrac=         1
+Letter frequencies in dataset:
+A 0.277 C 0.193 G 0.234 T 0.297 
+Background letter frequencies (from dataset with add-one prior applied):
+A 0.276 C 0.193 G 0.234 T 0.297 
+********************************************************************************
+
+
+********************************************************************************
+MOTIF  1 MEME	width =   4  sites =  12  llr = 67  E-value = 1.8e-001
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif 1 Description
+--------------------------------------------------------------------------------
+Simplified        A  :::a
+pos.-specific     C  ::a:
+probability       G  :a::
+matrix            T  a:::
+
+         bits    2.4   * 
+                 2.1  ** 
+                 1.9  ***
+                 1.7 ****
+Relative         1.4 ****
+Entropy          1.2 ****
+(8.1 bits)       0.9 ****
+                 0.7 ****
+                 0.5 ****
+                 0.2 ****
+                 0.0 ----
+
+Multilevel           TGCA
+consensus                
+sequence                 
+                         
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif 1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value            Site  
+-------------             ----- ---------            ----
+hsa-miR-20b-5p               15  3.70e-03 GTGCTCATAG TGCA GGTAG     
+hsa-miR-19a-3p               13  3.70e-03 TGCAAATCTA TGCA AAACTGA   
+hsa-miR-19a-3p                3  3.70e-03         TG TGCA AATCTATGCA
+hsa-miR-500a-3p               2  3.70e-03          A TGCA CCTGGGCAAG
+hsa-miR-502-3p                3  3.70e-03         AA TGCA CCTGGGCAAG
+hsa-miR-17-5p                15  3.70e-03 GTGCTTACAG TGCA GGTAG     
+hsa-miR-450b-5p               4  3.70e-03        TTT TGCA ATATGTTCCT
+hsa-miR-363-3p                4  3.70e-03        AAT TGCA CGGTATCCAT
+hsa-miR-32-5p                19  3.70e-03 ATTACTAAGT TGCA           
+hsa-miR-32-5p                 4  3.70e-03        TAT TGCA CATTACTAAG
+hsa-miR-148a-3p               5  3.70e-03       TCAG TGCA CTACAGAACT
+hsa-miR-503-5p               19  3.70e-03 GGAACAGTTC TGCA G         
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif 1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+hsa-miR-20b-5p                     0.0037  14_[+1]_5
+hsa-miR-19a-3p                     0.0037  2_[+1]_6_[+1]_7
+hsa-miR-500a-3p                    0.0037  1_[+1]_17
+hsa-miR-502-3p                     0.0037  2_[+1]_16
+hsa-miR-17-5p                      0.0037  14_[+1]_5
+hsa-miR-450b-5p                    0.0037  3_[+1]_15
+hsa-miR-363-3p                     0.0037  3_[+1]_15
+hsa-miR-32-5p                      0.0037  3_[+1]_11_[+1]
+hsa-miR-148a-3p                    0.0037  4_[+1]_14
+hsa-miR-503-5p                     0.0037  18_[+1]_1
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif 1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF 1 width=4 seqs=12
+hsa-miR-20b-5p           (   15) TGCA  1 
+hsa-miR-19a-3p           (   13) TGCA  1 
+hsa-miR-19a-3p           (    3) TGCA  1 
+hsa-miR-500a-3p          (    2) TGCA  1 
+hsa-miR-502-3p           (    3) TGCA  1 
+hsa-miR-17-5p            (   15) TGCA  1 
+hsa-miR-450b-5p          (    4) TGCA  1 
+hsa-miR-363-3p           (    4) TGCA  1 
+hsa-miR-32-5p            (   19) TGCA  1 
+hsa-miR-32-5p            (    4) TGCA  1 
+hsa-miR-148a-3p          (    5) TGCA  1 
+hsa-miR-503-5p           (   19) TGCA  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif 1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 4 n= 463 bayes= 5.68968 E= 1.8e-001 
+ -1023  -1023  -1023    175 
+ -1023  -1023    210  -1023 
+ -1023    237  -1023  -1023 
+   185  -1023  -1023  -1023 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif 1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 4 nsites= 12 E= 1.8e-001 
+ 0.000000  0.000000  0.000000  1.000000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  1.000000  0.000000  0.000000 
+ 1.000000  0.000000  0.000000  0.000000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif 1 regular expression
+--------------------------------------------------------------------------------
+TGCA
+--------------------------------------------------------------------------------
+
+
+
+
+Time  0.09 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+hsa-miR-503-5p                   7.15e-02  23
+hsa-miR-148a-3p                  6.80e-02  22
+hsa-miR-200a-3p                  8.69e-01  22
+hsa-miR-30a-5p                   6.21e-01  22
+hsa-miR-98-5p                    6.21e-01  22
+hsa-miR-125a-5p                  9.50e-01  24
+hsa-miR-32-5p                    6.80e-02  22
+hsa-miR-340-5p                   2.12e-01  22
+hsa-miR-363-3p                   6.80e-02  22
+hsa-miR-146a-5p                  4.85e-01  22
+hsa-miR-125b-2-3p                7.62e-01  22
+hsa-miR-450b-5p                  6.80e-02  22
+hsa-miR-542-3p                   6.21e-01  22
+hsa-miR-148a-5p                  8.69e-01  22
+hsa-miR-17-5p                    7.15e-02  23
+hsa-miR-502-3p                   6.80e-02  22
+hsa-miR-374a-3p                  6.21e-01  22
+hsa-miR-500a-3p                  6.80e-02  22
+hsa-miR-99b-3p                   7.62e-01  22
+hsa-miR-532-5p                   3.47e-01  22
+hsa-miR-10b-5p                   6.40e-01  23
+hsa-miR-19a-3p                   7.15e-02  23
+hsa-miR-20b-5p                   7.15e-02  23
+hsa-miR-16-2-3p                  3.47e-01  22
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because nmotifs = 1 reached.
+********************************************************************************
+
+CPU: guarani
+
+********************************************************************************
