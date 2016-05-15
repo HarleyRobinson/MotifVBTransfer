@@ -1,3 +1,3 @@
 Name	Motif	Church	Roc-auc	P-value
-Motif1 | alength= 4 w= 4 nsites= 12 E= 1.2e-001	TGCA (4)	0.0193555993817	0.0193555993817
-Motif4 | alength= 4 w= 6 nsites= 5 E= 7.3e+001	TGaGAC (6)	0.0119287060418	0.00363824544288
+Motif1 | alength= 4 w= 4 nsites= 12 E= 1.2e-001	TGCA (4)	0.019355599	0.019355599	
+Motif4 | alength= 4 w= 6 nsites= 5 E= 7.3e+001	TGaGAC (6)	0.011928706	0.003638245	
