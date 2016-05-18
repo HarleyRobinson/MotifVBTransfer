@@ -1,6 +1,6 @@
 #/usr/local/lib/python2.7/dist-packages/TAMO/Sitemap.py -f pvalAllDown.fa -m MEME_motifs_pvalSigDownModDiff.tamo -t 0.8
 # Loading motif from MEME_motifs_pvalSigDownModDiff.tamo
-# 5: [0, 1, 2, 3, 4]
+"# 5: [0, 1, 2, 3, 4]"
 0   : TgcArAaCt (9) 11.78 (0.80)
 1   : AGTGC (5)  7.96 (0.80)
 2   : CTGG (4)  6.36 (0.80)
