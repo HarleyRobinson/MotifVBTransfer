@@ -1,0 +1,70 @@
+[TgcArAaCt (9), TGyAsrACyG (10)]
+# K =  2  mindist = 0.216
+# min,max dist:  0.2158  0.2158
+[TgcArAaCt (9), ACCC (4)]
+# K =  2  mindist = 0.331
+# min,max dist:  0.3313  0.3313
+[TgcArAaCt (9), CAwAGTGC (8)]
+# K =  2  mindist = 0.492
+# min,max dist:  0.4922  0.4922
+[TgcArAaCt (9), CCTG (4)]
+# K =  2  mindist = 0.377
+# min,max dist:  0.3775  0.3775
+[TgcArAaCt (9), GCmwTGAG (8)]
+# K =  2  mindist = 0.538
+# min,max dist:  0.5379  0.5379
+[AGTGC (5), TGyAsrACyG (10)]
+# K =  2  mindist = 0.373
+# min,max dist:  0.3729  0.3729
+[AGTGC (5), ACCC (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3301  0.3301
+[AGTGC (5), CAwAGTGC (8)]
+# K =  2  mindist = 0.000
+[AGTGC (5), CCTG (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3301  0.3301
+[AGTGC (5), GCmwTGAG (8)]
+# K =  2  mindist = 0.271
+# min,max dist:  0.2705  0.2705
+[CTGG (4), TGyAsrACyG (10)]
+# K =  2  mindist = 0.175
+[CTGG (4), ACCC (4)]
+# K =  2  mindist = 0.330
+# min,max dist:  0.3300  0.3300
+[CTGG (4), CAwAGTGC (8)]
+# K =  2  mindist = 0.286
+# min,max dist:  0.2859  0.2859
+[CTGG (4), CCTG (4)]
+# K =  2  mindist = 0.000
+[CTGG (4), GCmwTGAG (8)]
+# K =  2  mindist = 0.462
+# min,max dist:  0.4618  0.4618
+[AGGTAG (6), TGyAsrACyG (10)]
+# K =  2  mindist = 0.454
+# min,max dist:  0.4539  0.4539
+[AGGTAG (6), ACCC (4)]
+# K =  2  mindist = 0.248
+# min,max dist:  0.2476  0.2476
+[AGGTAG (6), CAwAGTGC (8)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[AGGTAG (6), CCTG (4)]
+# K =  2  mindist = 0.000
+[AGGTAG (6), GCmwTGAG (8)]
+# K =  2  mindist = 0.555
+# min,max dist:  0.5554  0.5554
+[ACmC (4), TGyAsrACyG (10)]
+# K =  2  mindist = 0.337
+# min,max dist:  0.3368  0.3368
+[ACmC (4), ACCC (4)]
+# K =  2  mindist = 0.124
+[ACmC (4), CAwAGTGC (8)]
+# K =  2  mindist = 0.371
+# min,max dist:  0.3712  0.3712
+[ACmC (4), CCTG (4)]
+# K =  2  mindist = 0.495
+# min,max dist:  0.4950  0.4950
+[ACmC (4), GCmwTGAG (8)]
+# K =  2  mindist = 0.286
+# min,max dist:  0.2858  0.2858

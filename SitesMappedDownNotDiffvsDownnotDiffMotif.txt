@@ -1,0 +1,19 @@
+#/usr/local/lib/python2.7/dist-packages/TAMO/Sitemap.py -f pvalDownNotSigDiff.fa -m MEME_motifs_pvalDownNotSigDiff.tamo -t 0.8
+# Loading motif from MEME_motifs_pvalDownNotSigDiff.tamo
+# 5: [0, 1, 2, 3, 4]
+0   : AtGCwCcTG (9) 11.87 (0.80)
+1   : GCAAGGATTC (10) 15.91 (0.80)
+2   : GAkAACTGAA (10) 15.12 (0.80)
+3   : TCCG (4)  6.36 (0.80)
+4   : GACA (4)  6.36 (0.80)
+hsa-miR-363-3p 0                                         0 ATCCATCTG 11-19 9.81     
+hsa-miR-125b-2-3p 0                                         0 AGGCTCTTG 9-17 10.24     
+hsa-miR-99b-3p 0                                         0 AAGCTCGTG 1-9 10.24      | 3 TCCG 18-21 7.96          | 4 TGTC 8-11 7.96           
+hsa-miR-450b-5p 0                                         0 ATGTTCCTG 9-17 12.33     
+hsa-miR-148a-5p 3                                         3 TCCG 15-18 7.96          | 4 GACA 10-13 7.96          
+hsa-miR-146a-5p 2                                         2 GAGAACTGAA 1-10 18.89    
+hsa-miR-542-3p 2                                         2 GATAACTGAA 11-20 18.89   | 4 GACA 3-6 7.96            
+hsa-miR-500a-3p 0                                         0 ATGCACCTG 0-8 14.84      | 1 GCAAGGATTC 10-19 19.89   
+hsa-miR-502-3p 0                                         0 ATGCACCTG 1-9 14.84      | 1 GCAAGGATTC 11-20 19.89   
+
+Found matches in 9 of 9 input probes
