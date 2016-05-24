@@ -1,0 +1,17 @@
+#/usr/local/lib/python2.7/dist-packages/TAMO/Sitemap.py -f 24NonDiffAll.fa -m MEME_motifs_24DiffUp.tamo -t 0.7
+# Loading motif from MEME_motifs_24DiffUp.tamo
+# 5: [0, 1, 2, 3, 4]
+0   : agGtAGww (8)  9.06 (0.70)
+1   : CACrCTCA (8)  9.57 (0.70)
+2   : CTGGCATA (8) 11.14 (0.70)
+3   : AGAA (4)  5.57 (0.70)
+4   : CcGgacTgtG (10) 11.98 (0.70)
+hsa-let-7g-5p  0                                         0 AGGTAGTA 2-9 12.94       
+hsa-miR-450b-5p 4                                         4 CCGGTCTGTG 3-12 15.44    
+hsa-miR-503-5p 1                                         1 TGAGTGTA 7-14 12.10      
+hsa-let-7d-5p  0                                         0 AGGTAGTA 2-9 12.94       
+hsa-let-7b-5p  0                                         0 AGGTAGTA 2-9 12.94       
+hsa-miR-542-3p 1                                         1 CACGCTCA 0-7 13.67       | 1 CACACCCA 12-19 12.10     
+hsa-miR-532-5p 1                                         1 TGAGTGTA 7-14 12.10      
+
+Found matches in 7 of 44 input probes
