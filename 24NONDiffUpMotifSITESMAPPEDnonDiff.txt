@@ -20,3 +20,4 @@ hsa-miR-182-5p 0                                         0 TGGTAGAA 8-15 13.38
 hsa-let-7b-5p  0                                         0 AGGTAGTA 2-9 12.61       
 
 Found matches in 12 of 29 input probes
+Same as NONDIFFALL
