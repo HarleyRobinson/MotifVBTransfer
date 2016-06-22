@@ -1,0 +1,402 @@
+#/usr/local/lib/python2.7/dist-packages/TAMO/Sitemap.py -f mature_human.fa -m MEME_motifs_18DiffMirs.tamo -t 0.7
+# Loading motif from MEME_motifs_18DiffMirs.tamo
+# 5: [0, 1, 2, 3, 4]
+0   : TrmAgAwCy (9)  9.35 (0.70)
+1   : CTCkCGGCTC (10) 13.23 (0.70)
+2   : AgTGCa (6)  7.66 (0.70)
+3   : GACTGGAAG (9) 12.53 (0.70)
+4   : GCTGC (5)  6.96 (0.70)
+hsa-miR-495-3p 2                                         2 TGCACT 12-17 10.94       
+hsa-miR-6837-3p 4                                         4 GCTGC 16-20 9.95         
+hsa-miR-33a-5p 2                                         2 ATTGCA 15-20 9.19        
+hsa-miR-15a-3p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-373-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-30c-1-3p 0                                         0 GGTTGTTTA 9-17 10.12     
+hsa-miR-4691-3p 2                                         2 AGTGCA 16-21 10.94       
+hsa-miR-103b   4                                         4 GCTGC 17-21 9.95         
+hsa-miR-486-5p 4                                         4 GCTGC 11-15 9.95         
+hsa-miR-6799-5p 0                                         0 AGGTGTGCA 4-12 7.23      
+hsa-miR-449c-3p 2                                         2 TGCACT 8-13 10.94        
+hsa-let-7c-3p  0                                         0 TGTACAACC 1-9 8.53       
+hsa-miR-194-3p 4                                         4 GCTGC 8-12 9.95          
+hsa-miR-3130-3p 4                                         4 GCTGC 0-4 9.95           
+hsa-miR-335-3p 2                                         2 ATTGCT 9-14 7.44         
+hsa-miR-32-5p  2                                         2 ATTGCA 1-6 9.19          
+hsa-miR-106b-5p 2                                         2 AGTGCT 3-8 9.19          | 2 AGTGCA 12-17 10.94       
+hsa-miR-4766-3p 2                                         2 AGCAAT 2-7 7.44          | 2 ATTGCT 6-11 7.44         
+hsa-miR-1273d  4                                         4 GCTGC 17-21 9.95         
+hsa-miR-101-3p 0                                         0 TACAGTACT 0-8 7.75       
+hsa-miR-18a-3p 2                                         2 AGTGCT 9-14 9.19         
+hsa-miR-33b-3p 2                                         2 AGTGCA 12-17 10.94       | 4 GCAGC 15-19 9.95         
+hsa-miR-302c-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-4632-3p 1                                         1 CTCGCTGCTC 9-18 10.25    | 4 GCTGC 12-16 9.95         
+hsa-miR-548x-3p 2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-1254   3                                         3 GCCTGGAAG 1-9 9.25       
+hsa-miR-4715-3p 4                                         4 GCAGC 14-18 9.95         
+hsa-miR-4325                                             2 TGCACT 1-6 10.94         
+hsa-miR-4703-5p 2                                         2 AGCAAT 1-6 7.44          
+hsa-miR-3202   0                                         0 AGAGCTTTA 11-19 7.06     
+hsa-miR-128-1-5p 2                                         2 AGCACT 9-14 9.19         
+hsa-miR-143-5p 0                                         0 AGTGCTGCA 5-13 8.44      | 2 AGTGCT 5-10 9.19         | 4 GCTGC 8-12 9.95          
+hsa-miR-4498   2                                         2 AGTGCT 15-20 9.19        
+hsa-miR-4654   0                                         0 GGATCTGGA 4-12 7.71      
+hsa-miR-4715-5p 4                                         4 GCTGC 6-10 9.95          
+hsa-miR-548ae-3p 2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-6845-5p                                           1 GAGCAGAGAG 8-17 10.25    
+hsa-miR-16-2-3p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-4295                                             2 AGTGCA 1-6 10.94         | 2 TGCAAT 3-8 9.19          
+hsa-miR-4525   0                                         0 GGATGTGCA 4-12 10.12     
+hsa-miR-1322                                             4 GCTGC 6-10 9.95          
+hsa-let-7b-3p  0                                         0 TATACAACC 1-9 7.84       
+hsa-miR-6501-3p 4                                         4 GCAGC 5-9 9.95           
+hsa-miR-1324   2                                         2 TGCACT 15-20 10.94       
+hsa-miR-4695-3p 4                                         4 GCTGC 10-14 9.95         
+hsa-miR-639    4                                         4 GCTGC 3-7 9.95           
+hsa-miR-761    4                                         4 GCAGC 0-4 9.95           
+hsa-miR-6762-3p 4                                         4 GCTGC 2-6 9.95           
+hsa-miR-520g-3p 2                                         2 AGTGCT 4-9 9.19          
+hsa-miR-4297                                             3 CTTCCTGTC 3-11 9.25      
+hsa-miR-625-3p 0                                         0 TATAGAACT 3-11 10.38     
+hsa-miR-6787-5p 4                                         4 GCTGC 17-21 9.95         
+hsa-miR-18b-5p 2                                         2 AGTGCA 12-17 10.94       
+hsa-miR-195-3p 4                                         4 GCTGC 14-18 9.95         
+hsa-miR-25-3p  2                                         2 ATTGCA 1-6 9.19          | 2 TGCACT 3-8 10.94         
+hsa-miR-6882-3p 4                                         4 GCTGC 1-5 9.95           
+hsa-miR-3674   0                                         0 TGTAGAACC 2-10 10.38     
+hsa-miR-454-3p 2                                         2 AGTGCA 1-6 10.94         | 2 TGCAAT 3-8 9.19          | 2 ATTGCT 9-14 7.44         
+hsa-miR-4671-3p 2                                         2 AGTGCA 2-7 10.94         
+hsa-miR-518d-5p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-7703   2                                         2 TGCACT 1-6 10.94         
+hsa-miR-3615   1                                         1 CTCTCGGCTC 1-10 18.89    | 1 CTCGCGGCTC 11-20 18.89   
+hsa-miR-6503-5p 0                                         0 AGGTCTGCA 0-8 9.09       
+hsa-miR-301a-3p 2                                         2 AGTGCA 1-6 10.94         | 2 TGCAAT 3-8 9.19          
+hsa-miR-4683   0                                         0 TGGAGATCC 0-8 9.70       | 2 AGTGCT 9-14 9.19         
+hsa-miR-20a-3p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-4688   4                                         4 GCAGC 5-9 9.95           
+hsa-miR-6814-5p 4                                         4 GCTGC 15-19 9.95         
+hsa-miR-141-5p 3                                         3 CTTCCAGTA 3-11 9.25      
+hsa-miR-302f                                             2 ATTGCT 2-7 7.44          
+hsa-miR-302e                                             2 AGTGCT 2-7 9.19          
+hsa-miR-519e-5p 2                                         2 AGCACT 13-18 9.19        
+hsa-miR-4524b-3p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-4638-5p 4                                         4 GCTGC 5-9 9.95           
+hsa-miR-6853-5p 0                                         0 GGATGTCCA 6-14 7.84      
+hsa-miR-302d-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-106a-3p 2                                         2 TGCAAT 1-6 9.19          | 2 AGCACT 10-15 9.19        
+hsa-miR-130a-3p 2                                         2 AGTGCA 1-6 10.94         | 2 TGCAAT 3-8 9.19          
+hsa-miR-6726-5p 0                                         0 GGGTCTGCA 9-17 8.40      
+hsa-miR-3137   2                                         2 AGCAAT 13-18 7.44        
+hsa-miR-222-5p 0                                         0 TGTAGATCC 12-20 9.70     
+hsa-miR-515-5p 2                                         2 AGCACT 13-18 9.19        
+hsa-miR-518f-5p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-3133   0                                         0 TAAAGAACT 0-8 12.67      
+hsa-miR-98-3p  0                                         0 TATACAACT 1-9 8.53       
+hsa-miR-6077   0                                         0 AGAGCTGTA 4-12 7.06      
+hsa-miR-6071                                             4 GCTGC 4-8 9.95           
+hsa-miR-6070                                             3 GTTCCAGTC 3-11 9.25      
+hsa-miR-6761-3p 4                                         4 GCTGC 6-10 9.95          
+hsa-miR-1206   0                                         0 AGATGTTTA 9-17 10.12     
+hsa-miR-3156-3p 0                                         0 TCCAGATCT 8-16 8.40      | 0 AGATCTTTC 11-19 7.06     
+hsa-miR-1203   4                                         4 GCAGC 14-18 9.95         
+hsa-miR-30d-3p 3                                         3 CTTTCAGTC 0-8 9.25       | 4 GCTGC 17-21 9.95         
+hsa-miR-4310                                             4 GCAGC 0-4 9.95           
+hsa-miR-504-3p 2                                         2 AGTGCA 3-8 10.94         
+hsa-miR-668-3p 1                                         1 CACTCGGCTC 3-12 10.25    
+hsa-miR-4464   2                                         2 TGCAAT 14-19 9.19        
+hsa-miR-4735-5p 0                                         0 TGAACACCT 7-15 7.23      
+hsa-miR-516b-5p 2                                         2 AGCACT 14-19 9.19        
+hsa-miR-4660   0                                         0 TGCAGCTCT 0-8 7.75       | 4 GCAGC 1-5 9.95           
+hsa-miR-3187-5p 4                                         4 GCAGC 5-9 9.95           
+hsa-miR-558                                              4 GCTGC 3-7 9.95           
+hsa-miR-582-3p 0                                         0 TGAACAACT 8-16 11.50     
+hsa-miR-19b-1-5p 0                                         0 AGTTTTGCA 0-8 11.50      | 0 AGGTTTGCA 8-16 7.23      
+hsa-miR-524-5p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-516a-5p 2                                         2 AGCACT 14-19 9.19        
+hsa-miR-526b-3p 2                                         2 AGTGCT 3-8 9.19          
+hsa-miR-490-5p 0                                         0 GGATCTCCA 4-12 9.70      
+hsa-miR-92a-3p 2                                         2 ATTGCA 1-6 9.19          | 2 TGCACT 3-8 10.94         
+hsa-miR-7162-3p                                           4 GCAGC 14-18 9.95         
+hsa-miR-544b   0                                         0 GGTTGTGCA 6-14 10.81     
+hsa-miR-148b-5p 0                                         0 AGTTCTGTT 1-9 7.75       
+hsa-miR-4786-5p 3                                         3 GACTGGATG 9-17 9.25      
+hsa-miR-6811-5p 0                                         0 TACAGCACT 13-21 7.75     | 2 AGCACT 16-21 9.19        
+hsa-let-7d-3p  4                                         4 GCTGC 11-15 9.95         
+hsa-miR-92b-3p 2                                         2 ATTGCA 1-6 9.19          | 2 TGCACT 3-8 10.94         
+hsa-miR-548aj-5p 2                                         2 ATTGCA 10-15 9.19        
+hsa-miR-372-3p 2                                         2 AGTGCT 2-7 9.19          | 4 GCTGC 5-9 9.95           
+hsa-miR-365b-5p 4                                         4 GCAGC 14-18 9.95         
+hsa-miR-503-5p 0                                         0 AGTTCTGCA 13-21 13.36    | 4 GCAGC 2-6 9.95           
+hsa-miR-130b-5p 2                                         2 TGCACT 13-18 10.94       
+hsa-miR-30a-5p 0                                         0 TAAACATCC 2-10 9.44      | 3 GACTGGAAG 13-21 17.90    
+hsa-miR-5011-5p 2                                         2 TGCACT 14-19 10.94       
+hsa-miR-548aq-5p 2                                         2 ATTGCT 7-12 7.44         
+hsa-miR-548x-5p 2                                         2 ATTGCA 10-15 9.19        
+hsa-miR-15a-5p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-6821-3p 1                                         1 CTCTCCGCTC 4-13 10.25    
+hsa-miR-6766-5p 0                                         0 AGCAGATCT 8-16 7.75      
+hsa-miR-526b-5p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-548ai  2                                         2 ATTGCA 7-12 9.19         
+hsa-miR-3194-3p 4                                         4 GCTGC 6-10 9.95          
+hsa-miR-6812-5p -                                         4 GCAGC 20-24 9.95         
+hsa-miR-8073   4                                         4 GCAGC 5-9 9.95           
+hsa-miR-1248   2                                         2 AGCACT 13-18 9.19        
+hsa-miR-7853-5p 0                                         0 TGCAGATCC 5-13 11.98     
+hsa-miR-5100   0                                         0 TTCAGATCC 0-8 7.71       
+hsa-miR-335-5p 2                                         2 AGCAAT 5-10 7.44         
+hsa-miR-520g-5p 2                                         2 AGCACT 9-14 9.19         
+hsa-miR-18a-5p 2                                         2 AGTGCA 12-17 10.94       
+hsa-miR-1301-3p 4                                         4 GCAGC 2-6 9.95           | 4 GCTGC 5-9 9.95           
+hsa-miR-152-3p 0                                         0 GACAGAACT 9-17 7.75      | 2 AGTGCA 2-7 10.94         
+hsa-miR-520c-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-30c-5p 0                                         0 TAAACATCC 2-10 9.44      
+hsa-miR-489-3p 4                                         4 GCAGC 17-21 9.95         
+hsa-miR-15b-3p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-219b-5p 0                                         0 AGATGTCCA 0-8 8.53       
+hsa-miR-16-5p  4                                         4 GCAGC 2-6 9.95           
+hsa-miR-191-3p 4                                         4 GCTGC 0-4 9.95           
+hsa-miR-570-3p 2                                         2 AGCAAT 7-12 7.44         
+hsa-miR-3614-3p 0                                         0 TTCAGATCT 5-13 8.40      
+hsa-miR-1231   4                                         4 GCTGC 15-19 9.95         
+hsa-miR-604                                              4 GCTGC 2-6 9.95           
+hsa-miR-19b-2-5p 0                                         0 AGTTTTGCA 0-8 11.50      | 0 AGGTTTGCA 8-16 7.23      
+hsa-miR-93-3p  2                                         2 AGCACT 11-16 9.19        
+hsa-miR-607    0                                         0 TCCAGATCT 7-15 8.40      | 0 AGATCTATA 10-18 9.70     
+hsa-miR-200b-5p 4                                         4 GCAGC 11-15 9.95         
+hsa-miR-603    2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-602    4                                         4 GCTGC 13-17 9.95         
+hsa-miR-1202   4                                         4 GCTGC 6-10 9.95          
+hsa-miR-1251-5p 4                                         4 GCTGC 6-10 9.95          
+hsa-miR-146a-3p 0                                         0 AGTTCTTCA 12-20 13.36    
+hsa-miR-3681-3p 0                                         0 AGTGCTTCA 4-12 8.44      | 2 AGTGCT 4-9 9.19          
+hsa-miR-30e-5p 0                                         0 TAAACATCC 2-10 9.44      | 3 GACTGGAAG 13-21 17.90    
+hsa-miR-6750-5p 4                                         4 GCTGC 18-22 9.95         
+hsa-miR-200a-5p 2                                         2 AGTGCT 13-18 9.19        
+hsa-miR-561-5p 0                                         0 GGATCTTAA 5-13 7.71      
+hsa-miR-3666   2                                         2 AGTGCA 1-6 10.94         
+hsa-miR-363-3p 2                                         2 ATTGCA 1-6 9.19          
+hsa-miR-16-1-3p 4                                         4 GCTGC 14-18 9.95         
+hsa-miR-3944-5p 4                                         4 GCAGC 3-7 9.95           
+hsa-miR-6501-5p 4                                         4 GCTGC 10-14 9.95         
+hsa-miR-27a-5p 4                                         4 GCTGC 8-12 9.95          
+hsa-miR-548e-5p 2                                         2 AGCAAT 4-9 7.44          
+hsa-miR-22-5p  0                                         0 AGTTCTTCA 0-8 13.36      
+hsa-miR-4751   4                                         4 GCTGC 12-16 9.95         
+hsa-miR-3135b  2                                         2 AGTGCA 10-15 10.94       
+hsa-miR-33a-3p 2                                         2 AGTGCA 12-17 10.94       
+hsa-miR-195-5p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-1273g-5p 4                                         4 GCTGC 10-14 9.95         
+hsa-miR-4699-5p 2                                         2 ATTGCA 5-10 9.19         
+hsa-miR-218-2-3p 0                                         0 GGTTCTGTC 3-11 7.06      
+hsa-miR-142-5p 2                                         2 AGCACT 12-17 9.19        
+hsa-miR-30b-5p 0                                         0 TAAACATCC 2-10 9.44      
+hsa-miR-1295a  0                                         0 CGCAGATCT 6-14 7.75      
+hsa-miR-6840-5p 0                                         0 AGACCTGCA 12-20 7.75     
+hsa-miR-374c-5p 2                                         2 AGTGCT 16-21 9.19        
+hsa-miR-363-5p 2                                         2 TGCAAT 14-19 9.19        
+hsa-miR-486-3p 4                                         4 GCAGC 4-8 9.95           
+hsa-miR-4524b-5p 4                                         4 GCAGC 3-7 9.95           
+hsa-miR-5585-5p 0                                         0 TGAAGTACC 0-8 7.75       
+hsa-miR-449c-5p 2                                         2 ATTGCT 10-15 7.44        
+hsa-miR-365b-3p 0                                         0 TAAAAATCC 9-17 9.44      
+hsa-miR-4712-5p 0                                         0 TACAGGTCT 5-13 7.06      
+hsa-miR-6503-3p 0                                         0 TGCAGACCT 10-18 9.09     
+hsa-miR-20a-5p 2                                         2 AGTGCT 3-8 9.19          | 2 AGTGCA 12-17 10.94       
+hsa-miR-106b-3p 4                                         4 GCTGC 17-21 9.95         
+hsa-miR-518c-5p 2                                         2 AGCACT 12-17 9.19        
+hsa-miR-101-5p 2                                         2 AGTGCT 10-15 9.19        
+hsa-miR-7158-5p 0                                         0 GGTCCTGCA 12-20 7.75     | 4 GCAGC 18-22 9.95         
+hsa-miR-561-3p 0                                         0 TTAAGATCC 6-14 7.71      
+hsa-miR-219a-2-3p 0                                         0 TGGACATCT 11-19 8.53     
+hsa-miR-3937   2                                         2 AGCAAT 12-17 7.44        
+hsa-miR-4632-5p 4                                         4 GCAGC 4-8 9.95           
+hsa-miR-1279                                             2 ATTGCT 4-9 7.44          
+hsa-miR-1273g-3p 2                                         2 TGCACT 5-10 10.94        
+hsa-miR-3928-5p 0                                         0 TGAAGCTCT 0-8 7.75       
+hsa-miR-548aj-3p 2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-1272   4                                         4 GCAGC 10-14 9.95         
+hsa-miR-1276   0                                         0 TAAAGAGCC 0-8 7.71       
+hsa-miR-647    2                                         2 TGCACT 5-10 10.94        | 4 GCTGC 3-7 9.95           
+hsa-miR-646                                              4 GCAGC 2-6 9.95           | 4 GCTGC 5-9 9.95           
+hsa-miR-649    0                                         0 TGTTGTTCA 7-15 7.23      
+hsa-miR-4473   2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-6880-5p 4                                         4 GCAGC 15-19 9.95         
+hsa-miR-7112-5p 2                                         2 AGTGCA 11-16 10.94       
+hsa-miR-6893-3p 4                                         4 GCTGC 4-8 9.95           
+hsa-miR-543    2                                         2 TGCACT 12-17 10.94       
+hsa-miR-520b   2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-520e   2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-520h   2                                         2 AGTGCT 4-9 9.19          
+hsa-miR-6868-5p 4                                         4 GCAGC 17-21 9.95         
+hsa-miR-6801-5p 4                                         4 GCAGC 9-13 9.95          
+hsa-miR-3621   0                                         0 GGGTCTGCA 9-17 8.40      
+hsa-miR-519c-3p 2                                         2 AGTGCA 2-7 10.94         
+hsa-miR-1538   4                                         4 GCTGC 8-12 9.95          | 4 GCTGC 11-15 9.95         
+hsa-miR-4761-5p 0                                         0 AGGTGTGCA 3-11 7.23      
+hsa-miR-548az-3p 2                                         2 TGCAAT 6-11 9.19         
+hsa-miR-525-5p 2                                         2 TGCACT 11-16 10.94       
+hsa-miR-203a-5p 0                                         0 GGTTCTTAA 3-11 8.40      
+hsa-miR-3155b                                            0 GGCTCTGCA 3-11 8.40      
+hsa-miR-3155a  0                                         0 GGCTCTGCA 3-11 8.40      
+hsa-miR-520a-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-4799-5p 4                                         4 GCAGC 8-12 9.95          
+hsa-miR-625-5p 0                                         0 AGTTCTATA 8-16 10.38     
+hsa-miR-6787-3p 4                                         4 GCTGC 5-9 9.95           | 4 GCTGC 8-12 9.95          
+hsa-miR-6132                                             2 ATTGCA 13-18 9.19        
+hsa-miR-137    2                                         2 ATTGCT 2-7 7.44          
+hsa-miR-1301-5p                                           4 GCAGC 13-17 9.95         
+hsa-miR-3714   2                                         2 AGTGCT 9-14 9.19         | 4 GCAGC 4-8 9.95           
+hsa-miR-302b-5p 2                                         2 AGTGCT 13-18 9.19        
+hsa-miR-3619-5p 4                                         4 GCAGC 17-21 9.95         
+hsa-miR-3655   4                                         4 GCTGC 7-11 9.95          
+hsa-miR-3128   0                                         0 TAAAAAACT 9-17 10.81     
+hsa-miR-4742-5p 0                                         0 GGATATTTA 10-18 7.89     
+hsa-miR-187-3p 4                                         4 GCAGC 14-18 9.95         
+hsa-miR-5584-3p 0                                         0 AGTTCTTCC 1-9 8.44       
+hsa-miR-6769a-3p 1                                         1 CTCTCTGCTC 6-15 10.25    
+hsa-miR-3616-5p 2                                         2 AGTGCA 4-9 10.94         | 2 TGCACT 6-11 10.94        
+hsa-miR-4706   4                                         4 GCTGC 18-22 9.95         
+hsa-miR-4705   2                                         2 ATTGCT 14-19 7.44        
+hsa-miR-424-3p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-3129-3p 4                                         4 GCTGC 17-21 9.95         
+hsa-miR-2277-5p 3                                         3 CTGCCAGTC 15-23 9.25     | 4 GCTGC 14-18 9.95         
+hsa-miR-548ah-5p 2                                         2 ATTGCA 7-12 9.19         
+hsa-miR-3975   2                                         2 TGCACT 9-14 10.94        
+hsa-miR-8083   4                                         4 GCTGC 12-16 9.95         
+hsa-miR-497-5p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-383-3p                                           2 AGCACT 2-7 9.19          
+hsa-miR-520d-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-519b-3p 2                                         2 AGTGCA 2-7 10.94         
+hsa-miR-10b-5p 0                                         0 TGTAGAACC 5-13 10.38     
+hsa-miR-4664-3p 3                                         3 CTTCCGGTC 0-8 9.25       
+hsa-miR-6760-5p 2                                         2 AGTGCA 15-20 10.94       
+hsa-miR-656-5p 0                                         0 AGGTGTTCA 12-20 7.23     
+hsa-miR-367-3p 2                                         2 ATTGCA 1-6 9.19          | 2 TGCACT 3-8 10.94         | 2 AGCAAT 11-16 7.44        
+hsa-miR-30e-3p 0                                         0 GGATGTTTA 9-17 9.44      | 3 CTTTCAGTC 0-8 9.25       
+hsa-miR-10a-5p 0                                         0 TGTAGATCC 5-13 9.70      
+hsa-miR-6877-5p 4                                         4 GCTGC 17-21 9.95         
+hsa-miR-3908   2                                         2 AGCAAT 1-6 7.44          
+hsa-miR-301b-5p 2                                         2 TGCACT 13-18 10.94       
+hsa-miR-3614-5p 0                                         0 GGATCTGAA 6-14 7.71      | 4 GCTGC 16-20 9.95         
+hsa-miR-4524a-5p 4                                         4 GCAGC 3-7 9.95           
+hsa-miR-1184   4                                         4 GCAGC 3-7 9.95           
+hsa-miR-450b-5p 2                                         2 TGCAAT 3-8 9.19          
+hsa-miR-4449   4                                         4 GCTGC 9-13 9.95          
+hsa-miR-759    2                                         2 AGTGCA 4-9 10.94         
+hsa-miR-548aq-3p 2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-3187-3p 4                                         4 GCTGC 11-15 9.95         
+hsa-miR-590-5p 2                                         2 AGTGCA 15-20 10.94       
+hsa-let-7e-5p  0                                         0 GGTTGTATA 10-18 7.84     
+hsa-miR-520c-5p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-4691-5p 4                                         4 GCTGC 16-20 9.95         
+hsa-miR-3168                                             0 AGTTCTACA 1-9 11.07      
+hsa-miR-3165   2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-548g-5p 2                                         2 ATTGCA 10-15 9.19        
+hsa-miR-301a-5p 2                                         2 ATTGCA 11-16 9.19        | 2 TGCACT 13-18 10.94       
+hsa-miR-3130-5p 4                                         4 GCAGC 15-19 9.95         
+hsa-miR-19b-3p 0                                         0 TGCAAATCC 2-10 10.12     | 0 TGCAAAACT 12-20 11.50    
+hsa-miR-519a-3p 2                                         2 AGTGCA 2-7 10.94         
+hsa-miR-3681-5p 2                                         2 TGCACT 10-15 10.94       
+hsa-miR-5698   2                                         2 AGTGCA 6-11 10.94        
+hsa-miR-33b-5p 2                                         2 ATTGCT 4-9 7.44          
+hsa-miR-4772-5p 2                                         2 ATTGCA 12-17 9.19        
+hsa-miR-4793-3p 2                                         2 TGCACT 2-7 10.94         
+hsa-miR-1271-5p 2                                         2 AGCACT 14-19 9.19        
+hsa-miR-19a-5p 0                                         0 AGTTTTGCA 0-8 11.50      | 2 TGCACT 13-18 10.94       
+hsa-miR-372-5p 2                                         2 AGCACT 12-17 9.19        
+hsa-miR-1915-5p 4                                         4 GCTGC 10-14 9.95         
+hsa-miR-1913   4                                         4 GCTGC 12-16 9.95         | 4 GCTGC 15-19 9.95         
+hsa-miR-103a-3p 4                                         4 GCAGC 1-5 9.95           
+hsa-miR-6816-3p                                           0 GGACCTGCA 3-11 7.06      
+hsa-miR-103a-2-5p 2                                         2 AGTGCT 11-16 9.19        | 4 GCTGC 14-18 9.95         
+hsa-miR-130b-3p 2                                         2 AGTGCA 1-6 10.94         | 2 TGCAAT 3-8 9.19          
+hsa-miR-30a-3p 3                                         3 CTTTCAGTC 0-8 9.25       | 4 GCAGC 17-21 9.95         
+hsa-miR-6499-5p 2                                         2 AGCACT 11-16 9.19        
+hsa-miR-143-3p 0                                         0 TGAAGCACT 5-13 8.44      | 2 AGCACT 8-13 9.19         
+hsa-miR-7156-3p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-22-3p  0                                         0 TGAAGAACT 11-19 13.36    | 4 GCTGC 2-6 9.95           
+hsa-miR-4640-5p 4                                         4 GCAGC 11-15 9.95         
+hsa-miR-4677-3p 0                                         0 CAAAGAACT 10-18 7.75     
+hsa-miR-4699-3p 2                                         2 TGCAAT 9-14 9.19         
+hsa-miR-1295b-5p 0                                         0 AGATCTGCG 5-13 7.75      
+hsa-miR-30b-3p 0                                         0 GGATGTTTA 9-17 9.44      
+hsa-miR-8057   0                                         0 GGCTCTGTA 2-10 7.71      
+hsa-miR-8054   0                                         0 TACAGATCG 5-13 7.71      
+hsa-miR-30d-5p 0                                         0 TAAACATCC 2-10 9.44      | 3 GACTGGAAG 13-21 17.90    
+hsa-miR-7161-3p 0                                         0 AGATCTTTG 1-9 7.06       
+hsa-miR-650    4                                         4 GCAGC 5-9 9.95           
+hsa-miR-4659b-3p 4                                         4 GCAGC 16-20 9.95         
+hsa-miR-92a-1-5p 2                                         2 TGCAAT 14-19 9.19        
+hsa-miR-301b-3p 2                                         2 AGTGCA 1-6 10.94         | 2 TGCAAT 3-8 9.19          
+hsa-miR-3934-3p 0                                         0 TGCACAGCT 9-17 7.23      
+hsa-miR-582-5p 0                                         0 AGTTGTTCA 4-12 11.50     
+hsa-miR-139-5p 2                                         2 AGTGCA 5-10 10.94        
+hsa-miR-153-5p 4                                         4 GCAGC 16-20 9.95         
+hsa-miR-203b-3p 0                                         0 TTAAGAACC 8-16 8.40      
+hsa-miR-152-5p 0                                         0 GGTTCTGTG 1-9 7.06       
+hsa-miR-6835-3p 2                                         2 AGCACT 3-8 9.19          
+hsa-miR-148a-3p 0                                         0 TACAGAACT 9-17 12.67     | 2 AGTGCA 2-7 10.94         | 2 TGCACT 4-9 10.94         
+hsa-miR-15b-5p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-570-5p 2                                         2 ATTGCA 7-12 9.19         
+hsa-miR-885-3p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-4680-5p 3                                         3 CTTGCAGTC 6-14 9.25      
+hsa-miR-4418                                             0 TGCAGGACT 3-11 8.44      
+hsa-miR-324-3p 4                                         4 GCTGC 12-16 9.95         
+hsa-miR-93-5p  2                                         2 AGTGCT 3-8 9.19          
+hsa-miR-148b-3p 0                                         0 CACAGAACT 9-17 7.75      | 2 AGTGCA 2-7 10.94         
+hsa-miR-365a-3p 0                                         0 TAAAAATCC 9-17 9.44      
+hsa-miR-660-5p 2                                         2 ATTGCA 5-10 9.19         
+hsa-miR-3180-5p 3                                         3 CTTCCAGAC 0-8 9.25       
+hsa-miR-4690-3p 4                                         4 GCAGC 0-4 9.95           
+hsa-miR-512-3p 2                                         2 AGTGCT 1-6 9.19          
+hsa-miR-526a   2                                         2 AGCACT 11-16 9.19        
+hsa-miR-6838-5p 4                                         4 GCAGC 2-6 9.95           
+hsa-miR-520f-3p 2                                         2 AGTGCT 1-6 9.19          
+hsa-miR-302a-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-5191   2                                         2 AGTGCT 16-21 9.19        
+hsa-miR-4524a-3p 4                                         4 GCTGC 14-18 9.95         
+hsa-miR-151a-3p 0                                         0 TGAAGCTCC 6-14 7.06      
+hsa-miR-493-3p 0                                         0 TGAAGGTCT 0-8 7.75       
+hsa-miR-4799-3p 4                                         4 GCTGC 8-12 9.95          
+hsa-miR-340-5p 2                                         2 AGCAAT 6-11 7.44         
+hsa-miR-4734   4                                         4 GCTGC 0-4 9.95           | 4 GCTGC 7-11 9.95          
+hsa-miR-4728-5p 4                                         4 GCAGC 13-17 9.95         
+hsa-miR-3192-3p 1                                         1 CTCTCAGCTC 11-20 10.25   
+hsa-miR-19a-3p 0                                         0 TGCAAATCT 2-10 10.81     | 0 TGCAAAACT 12-20 11.50    
+hsa-miR-302b-3p 2                                         2 AGTGCT 2-7 9.19          
+hsa-miR-3156-5p 0                                         0 AGATCTGGA 2-10 8.40      
+hsa-miR-5584-5p 0                                         0 GGAAGAACT 10-18 8.44     
+hsa-miR-3157-5p 2                                         2 AGTGCA 12-17 10.94       
+hsa-miR-504-5p 2                                         2 TGCACT 11-16 10.94       
+hsa-miR-17-5p  2                                         2 AGTGCT 3-8 9.19          | 2 AGTGCA 12-17 10.94       
+hsa-let-7a-5p  0                                         0 GGTTGTATA 10-18 7.84     
+hsa-miR-4712-3p 0                                         0 AGACCTGTA 6-14 7.06      
+hsa-miR-3942-5p 2                                         2 AGCAAT 1-6 7.44          
+hsa-miR-5047   4                                         4 GCAGC 2-6 9.95           | 4 GCTGC 5-9 9.95           
+hsa-miR-921    0                                         0 GACAGAACC 9-17 7.06      
+hsa-miR-922    4                                         4 GCAGC 0-4 9.95           
+hsa-miR-4725-5p 4                                         4 GCAGC 7-11 9.95          
+hsa-miR-6762-5p 4                                         4 GCAGC 12-16 9.95         
+hsa-miR-424-5p 2                                         2 AGCAAT 4-9 7.44          | 4 GCAGC 2-6 9.95           
+hsa-miR-548u   2                                         2 TGCAAT 7-12 9.19         
+hsa-miR-6874-3p 0                                         0 AGTTCTGCT 1-9 8.44       
+hsa-miR-191-5p 4                                         4 GCAGC 16-20 9.95         
+hsa-miR-593-5p 2                                         2 ATTGCT 15-20 7.44        
+hsa-miR-6069   4                                         4 GCTGC 12-16 9.95         
+hsa-miR-6806-3p 0                                         0 TGAAGCTCT 0-8 7.75       
+hsa-miR-1286   0                                         0 TGCAGGACC 0-8 7.75       
+hsa-miR-4515   4                                         4 GCAGC 15-19 9.95         
+hsa-miR-1273h-5p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-6829-5p 4                                         4 GCTGC 3-7 9.95           
+hsa-miR-517-5p 2                                         2 AGCACT 12-17 9.19        
+hsa-miR-181b-5p 2                                         2 ATTGCT 7-12 7.44         
+hsa-miR-20b-5p 2                                         2 AGTGCT 3-8 9.19          | 2 AGTGCA 12-17 10.94       
+hsa-miR-3944-3p 4                                         4 GCTGC 13-17 9.95         
+hsa-miR-503-3p 4                                         4 GCTGC 14-18 9.95         
+hsa-miR-3174   0                                         0 TGCAGAGCC 14-22 8.40     
+hsa-miR-106a-5p 2                                         2 AGTGCT 3-8 9.19          | 2 AGTGCA 12-17 10.94       
+hsa-miR-1284   0                                         0 TACAGACCC 4-12 7.71      
+hsa-miR-548ar-5p 2                                         2 ATTGCA 7-12 9.19         
+hsa-miR-6514-3p 3                                         3 CTTCCACTC 9-17 9.25      
+hsa-miR-107    4                                         4 GCAGC 1-5 9.95           
+
+Found matches in 392 of 2588 input probes
