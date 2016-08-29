@@ -1,0 +1,4 @@
+			
+hsa-miR-495-3p 2                                         2 TGCACT 12-17 10.94       				
+hsa-miR-6837-3p 4                                         4 GCTGC 16-20 9.95         				
+hsa-miR-33a-5p 2                                         2 ATTGCA 15-20 9.19        				
